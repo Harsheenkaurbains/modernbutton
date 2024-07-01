@@ -1,0 +1,1 @@
+This CSS project demonstrates a simple and stylish button with a hover effect. The project includes global styling to remove default margins and paddings, a container to center the button, and specific styles for the button itself. 
